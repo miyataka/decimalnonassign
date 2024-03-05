@@ -1,4 +1,4 @@
-module github.com/sho-hata/decimalnonassign
+module github.com/miyataka/decimalnonassign
 
 go 1.19
 

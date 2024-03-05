@@ -1,7 +1,7 @@
 package main
 
 import (
-	"github.com/sho-hata/decimalnonassign"
+	"github.com/miyataka/decimalnonassign"
 	"golang.org/x/tools/go/analysis/singlechecker"
 )
 
